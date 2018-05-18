@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "702d8edcb4b1bdf80b8d76b1d0bb3759"
+build_time: [1526667068, 365829000]
+inputs:
+  "/Users/ehong/Documents/CleanStore/CleanStore/AppDelegate.swift": [1526666904, 0]
